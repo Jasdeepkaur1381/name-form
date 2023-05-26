@@ -115,3 +115,4 @@ export default Apps;
 //single input Event for all the input tags /
 //now wer are going to learn how we can simply our inputEven called with onChange function through destructuring
 //the function of UseState on right hand side also holds the previous values of object
+//noew changes
